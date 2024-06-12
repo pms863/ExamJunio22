@@ -64,11 +64,7 @@
 				<version>3.0.0</version>
 				<configuration>
 					<includes>
-						<include>PersonaTest.java</include>
-						<include>TestPremiosCineApp.java</include>
-						<include>TestGestorPremios.java</include>
-						<include>TestPelicula.java</include>
-						<include>TestPremio.java</include>
+						<include>testEjercicio2</include>
 					</includes>
 				</configuration>
 			</plugin>
